@@ -104,22 +104,22 @@ Resolved the issue by adding appropriate request headers.
 **Project Structure**
 
 
-API-&-WebScraping-Project/
-
-│
-
-├── Notebooks/
-
-│     └── api-&-webscraping-project.ipynb
-
-│
-
-├── Raw_Results_Data/
-
-│     ├── API_DATA.csv
-
-│     └── SCRAPED_DATA.csv
-
-│
-
-└── README.md
+    API-&-WebScraping-Project/
+    
+    │
+    
+    ├── Notebooks/
+    
+    │     └── api-&-webscraping-project.ipynb
+    
+    │
+    
+    ├── Raw_Results_Data/
+    
+    │     ├── API_DATA.csv
+    
+    │     └── SCRAPED_DATA.csv
+    
+    │
+    
+    └── README.md
