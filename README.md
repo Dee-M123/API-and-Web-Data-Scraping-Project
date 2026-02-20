@@ -36,7 +36,7 @@ To retrieve real-time cryptocurrency market data and structure it for analysis.
 
 - Sent a GET request using the requests library.
 
--Verified successful communication using HTTP status code 200.
+- Verified successful communication using HTTP status code 200.
 
 - Converted the JSON response into a Pandas DataFrame.
 
